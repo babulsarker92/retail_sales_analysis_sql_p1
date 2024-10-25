@@ -217,4 +217,9 @@ SELECT
 
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
+## Author -Babul Sarker 
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst/Business Analyst/Healthcare Analyst or any analyst  roles.
 
+## Stat Connected 
+**LinkedIn**: [Connect with me professionally] (https://www.linkedin.com/in/babulsarker/)
+**Email**: babul.199251@gmail.com 
