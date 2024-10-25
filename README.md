@@ -122,7 +122,7 @@ FROM retail_sales
 WHERE category = 'Beauty'
 ```
 
-5. **Q5.Write a SQL query to find all transactions where the total_sale is greater than 1500**:
+5. **Write a SQL query to find all transactions where the total_sale is greater than 1500**:
 ```sql
 SELECT * FROM retail_sales
 WHERE total_sale > 1500
