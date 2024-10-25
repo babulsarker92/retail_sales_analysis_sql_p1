@@ -198,6 +198,7 @@ SELECT
 	GROUP BY shift;
 	
 ```
+--End the project--
 
 ## Findings
 
