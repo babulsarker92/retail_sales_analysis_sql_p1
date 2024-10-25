@@ -101,9 +101,7 @@ retail_sales
 			  TO_CHAR (sale_date, 'YYYY-MM') ='2022-11'
 			  AND
 			      quantiy >= 4;
-
 ```
-
 3. **Write a SQL query to calculate the total sales (total_sale) for each category.**:
 ```sql
 SELECT 
@@ -179,7 +177,6 @@ SELECT
 FROM retail_sales
 	GROUP BY 1;	
 ```
-
 10. **Write a SQL query to create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17)**:
 ```sql
 WITH hourly_sale     -- Using CTE --temporary NEW  table--
